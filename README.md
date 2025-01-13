@@ -7,7 +7,7 @@
 
 ## KiCad Library and Repository  
 
-- [VSDSquadron FM KiCad Library (v1.0.0)](https://github.com/yathAg/VSDSquadron_FM_KiCad/releases/download/v1.0.0/library.zip)  
+- [VSDSquadron FM KiCad Library (v1.0.1)](https://github.com/yathAg/VSDSquadron_FM_KiCad/releases/download/v1.0.1/library.zip)  
 - [VSDSquadron FM Shield Repository](https://github.com/yathAg/VSDSquadron_FM_Shield)  
 
 ## Datasheets  
