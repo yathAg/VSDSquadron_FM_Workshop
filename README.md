@@ -36,3 +36,11 @@
 
 - [SMD Capacitor Sizes](https://resources.pcb.cadence.com/blog/2023-smd-capacitor-size-charts)  
 - [Guide to Choosing Capacitor Footprints](docs/REN_an1325_APN_20040119.pdf)  
+
+## Good Schematic Design Practices
+
+- Ensure all ground flags face downward, and power flags face upward for consistency and clarity.
+- Extend wires to completely underline their labels. This avoids confusion and improves readability.
+- Avoid overlapping labels with components or pin numbers. Use longer wires if necessary to achieve this.
+- Use consistent units for components, especially capacitors. For example, choose either 0.1 µF or 100 nF and use it throughout the schematic. This simplifies BOM generation for the fabrication house.
+- Generate a color output with the drawing sheet to make it easier for the reader to interpret the schematic.
